@@ -1,0 +1,3 @@
+2023-08-13 23:17:35,197 Archive Cleanup Started
+2023-08-13 23:17:35,601 New folder.zip Uploaded succesfully to s3 D:\LogCleanUpScriptTest\Usr\New folder (3)\New folder
+2023-08-13 23:17:35,604 New folder.zip File deleted succesfully from path D:\LogCleanUpScriptTest\Usr\New folder (3)\New folder

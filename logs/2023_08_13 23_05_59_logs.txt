@@ -1,0 +1,5 @@
+2023-08-13 23:05:59,551 Archive Cleanup Started
+2023-08-13 23:05:59,555  ... Failed to zip!! Quitting Operation!!
+2023-08-13 23:05:59,555 global name 'compression' is not defined
+2023-08-13 23:05:59,566  ... Failed!! Quitting Upload!!
+2023-08-13 23:05:59,566 global name 's3path' is not defined

@@ -1,0 +1,3 @@
+2023-08-11 19:43:26,480 Archive Cleanup Started
+2023-08-11 19:43:26,782 Email sent successfully!
+2023-08-11 19:43:26,782 Archive Cleanup Completed succesfully.

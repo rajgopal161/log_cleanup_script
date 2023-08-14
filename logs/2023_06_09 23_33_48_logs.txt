@@ -1,0 +1,38 @@
+2023-06-09 23:33:48,944 Archive Cleanup Started
+2023-06-09 23:33:48,960 CCL_UserImport_08272019_230032.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:48,983 CCL_UserImport_08302019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,003 CCL_UserImport_09042019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,023 CCL_UserImport_09052019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,051 CCL_UserImport_09062019_230034.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,071 CCL_UserImport_09172019_230034.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,091 CCL_UserImport_09192019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,111 CCL_UserImport_09202019_230034.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,134 CCL_UserImport_09232019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,154 CCL_UserImport_09242019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,181 CCL_UserImport_09252019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,201 CCL_UserImport_09272019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,220 CCL_UserImport_09302019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,246 CCL_UserImport_10012019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,266 CCL_UserImport_10022019_230034.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,286 CCL_UserImport_10032019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,305 CCL_UserImport_10042019_230034.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,328 CCL_UserImport_10082019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,348 CCL_UserImport_10102019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,365 CCL_UserImport_10112019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,385 CCL_UserImport_10142019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,405 CCL_UserImport_10172019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,428 CCL_UserImport_10242019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,450 CCL_UserImport_10282019_230037.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,470 CCL_UserImport_10302019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,490 CCL_UserImport_10312019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,509 CCL_UserImport_11102019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,530 CCL_UserImport_11112019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,551 CCL_UserImport_11132019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,569 CCL_UserImport_11142019_230033.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,589 CCL_UserImport_11252019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,609 CCL_UserImport_12102019_230035.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,631 CCL_UserImport_12172019_230036.csv File deleted succesfully after zipping D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,960 New folder.zip Uploaded succesfully to s3 D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:49,963 New folder.zip File deleted succesfully from path D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-06-09 23:33:50,236 Email sent successfully!
+2023-06-09 23:33:50,237 Archive Cleanup Completed succesfully.

@@ -1,0 +1,18 @@
+[configs]
+relative_path = D:/LogCleanUpScriptTest
+Bucketname = cloudopsbackups
+s3path = LogCleanUpScriptTest/archives
+local_path = D:\LogCleanUpScriptTest\Usr
+log_path = D:/LogCleanUpScriptTest/logs/
+
+[SMTP details]
+smpt_server_region = email-smtp.us-west-2.amazonaws.com
+
+sent_from = saasalerts@replicon.com
+to = ("raj.gopal@replicon.com",)
+
+subject = Archive Cleanup Succesful in us-west-2 SaaSTools
+body = Archive files have been uploaded to s3 and deleted the files from SaaSTools
+
+f_subject = Archive Cleanup Failed in us-west-2 SaaSTools
+f_body = Failed to upload files to s3 or delete the files from SaaSTools'

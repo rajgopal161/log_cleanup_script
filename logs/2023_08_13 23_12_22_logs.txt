@@ -1,0 +1,3 @@
+2023-08-13 23:12:23,424 Archive Cleanup Started
+2023-08-13 23:12:23,430  ... Failed!! Quitting Upload!!
+2023-08-13 23:12:23,430 global name 's3path' is not defined

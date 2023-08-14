@@ -1,0 +1,3 @@
+2023-08-13 22:56:50,490 Archive Cleanup Started
+2023-08-13 22:56:50,490  ... Failed to zip!! Quitting Operation!!
+2023-08-13 22:56:50,490 global name 'local_path' is not defined

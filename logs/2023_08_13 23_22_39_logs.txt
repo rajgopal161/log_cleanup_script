@@ -1,0 +1,5 @@
+2023-08-13 23:22:40,076 Archive Cleanup Started
+2023-08-13 23:22:40,091  ... Failed to zip!! Quitting Operation!!
+2023-08-13 23:22:40,091 global name 'dt_now' is not defined
+2023-08-13 23:22:40,563 New folder.zip Uploaded succesfully to s3 D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
+2023-08-13 23:22:40,566 New folder.zip File deleted succesfully from path D:\LogCleanUpScriptTest\Usr\New folder (5)\New folder
