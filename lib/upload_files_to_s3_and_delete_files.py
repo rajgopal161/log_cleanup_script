@@ -1,5 +1,3 @@
-# -*- coding: utf8 -*-
-
 import os
 import sys
 import boto  #pip install boto
