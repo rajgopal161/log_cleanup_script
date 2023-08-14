@@ -1,9 +1,9 @@
 [configs]
-relative_path = D:/LogCleanUpScriptTest
+relative_path = D:/SFTP_root/Usr
 Bucketname = cloudopsbackups
-s3path = LogCleanUpScriptTest/archives
-local_path = D:\LogCleanUpScriptTest\Usr
-log_path = D:/LogCleanUpScriptTest/logs/
+s3path = NA3 Saastools backup/ArchiveLogCleanUp/archives
+local_path = D:\SFTP_root\Usr
+log_path = D:/LogCleanUpScript/logs/
 
 [SMTP details]
 smpt_server_region = email-smtp.us-west-2.amazonaws.com
