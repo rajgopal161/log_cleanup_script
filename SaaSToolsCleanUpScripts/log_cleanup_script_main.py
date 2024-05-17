@@ -11,6 +11,5 @@ from lib.logging_out import logger
 
 #Calling the functions
 
-logger.info("Archive Cleanup Started")
+#logger.info("Archive Cleanup Started")
 find_archive_files_and_zip()
-#upload_files_to_s3_and_delete_files()
