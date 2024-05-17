@@ -40,7 +40,7 @@ def upload_files_to_s3_and_delete_files() :
                                 k.set_contents_from_filename(FILENAME)
                                 logger.info(fi + " Uploaded succesfully to s3 under " + Bucketname +"/" + s3path + "/" + relative_parent_dir_path + "/")
                                 os.remove(os.path.join(spath, fi))  
-                                logger.info(fi + " File deleted succesfully from path " + spath)
+                                #logger.info(fi + " File deleted succesfully from path " + spath)
                             
                 else:
                     break
